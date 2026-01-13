@@ -1,0 +1,145 @@
+[
+    {
+        "Game": "Super Mario 3D Land",
+        "GameLink": "https://en.wikipedia.org/wiki/Super_Mario_3D_Land",
+        "Year": 2011,
+        "Dev": "Nintendo EAD",
+        "DevLink": "https://en.wikipedia.org/wiki/Nintendo_EAD",
+        "Publisher": "Nintendo",
+        "PublisherLink": "https://en.wikipedia.org/wiki/Nintendo",
+        "Platform": "the 3DS",
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+      },
+      
+      {
+        "Game": "Mario Kart 7",
+        "GameLink": "https://en.wikipedia.org/wiki/Mario_Kart_7",
+        "Year": 2011,
+        "Dev": "Nintendo EAD - Retro Studios",
+        "DevLink": null,
+        "Publisher": "Nintendo",
+        "PublisherLink": "https://en.wikipedia.org/wiki/Nintendo",
+        "Platform": "the 3DS",
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+      },
+
+      {
+        "Game": "Super Mario 64 DS",
+        "GameLink": "https://en.wikipedia.org/wiki/Super_Mario_64_DS",
+        "Year": "2004",
+        "Dev": "Nintendo",
+        "DevLink": null,
+        "Publisher": "Nintendo",
+        "PublisherLink": null,
+        "Platform": "the Nintendo DS",
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS"
+      },
+
+      {
+        "Game": "Pokémon Alpha Sapphire",
+        "GameLink": "https://en.wikipedia.org/wiki/Pokémon_Alpha_Sapphire",
+        "Year": 2014,
+        "Dev": "Game Freak",
+        "DevLink": "https://en.wikipedia.org/wiki/Game_Freak",
+        "Publisher": "The Pokémon Company",
+        "PublisherLink": "https://en.wikipedia.org/wiki/The_Pokémon_Company",
+        "Platform": "the 3DS",
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+      },
+      
+      {
+        "Game": "Pokémon X",
+        "GameLink": "https://en.wikipedia.org/wiki/Pokémon_X",
+        "Year": 2013,
+        "Dev": "Game Freak",
+        "DevLink": "https://en.wikipedia.org/wiki/Game_Freak",
+        "Publisher": "The Pokémon Company",
+        "PublisherLink": "https://en.wikipedia.org/wiki/The_Pokémon_Company",
+        "Platform": "the 3DS",
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+      },
+
+      {
+        "Game": "Super Smash Bros. for Nintendo 3DS",
+        "GameLink": "https://en.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS",
+        "Year": 2014,
+        "Dev": "Sora Ltd. - Bandai Namco Games",
+        "DevLink": null,
+        "Publisher": "Nintendo",
+        "PublisherLink": "https://en.wikipedia.org/wiki/Nintendo",
+        "Platform": "the 3DS",
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+      },
+
+      {
+        "Game": "Tomodachi Life",
+        "GameLink": "https://en.wikipedia.org/wiki/Tomodachi_Life",
+        "Year": 2013,
+        "Dev": "Nintendo SPD",
+        "DevLink": "https://en.wikipedia.org/wiki/Nintendo_SPD",
+        "Publisher": "Nintendo",
+        "PublisherLink": "https://en.wikipedia.org/wiki/Nintendo",
+        "Platform": "the 3DS",
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+      },
+
+      {
+        "Game": "WarioWare Gold",
+        "GameLink": "https://en.wikipedia.org/wiki/WarioWare_Gold",
+        "Year": 2018,
+        "Dev": "Nintendo",
+        "DevLink": "https://en.wikipedia.org/wiki/Nintendo",
+        "Publisher": "Nintendo",
+        "PublisherLink": null,
+        "Platform": "the 3DS",
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+      },
+
+      {
+        "Game": "Spider-Man: Edge of Time",
+        "GameLink": "https://en.wikipedia.org/wiki/Spider-Man:_Edge_of_Time",
+        "Year": "2011",
+        "Dev": "Other Ocean Interactive",
+        "DevLink": null,
+        "Publisher": "Activision",
+        "PublisherLink": null,
+        "Platform": "the Nintendo DS",
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS"
+      },
+
+      {
+        "Game": "Spider-Man: Shattered Dimensions",
+        "GameLink": "https://en.wikipedia.org/wiki/Spider-Man:_Shattered_Dimensions",
+        "Year": "2010",
+        "Dev": "Griptonite Games",
+        "DevLink": "https://en.wikipedia.org/wiki/Griptonite_Games",
+        "Publisher": "Activision",
+        "PublisherLink": null,
+        "Platform": "the Nintendo DS",
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS"
+      },
+
+      {
+        "Game": "Ultimate Spider-Man",
+        "GameLink": "https://en.wikipedia.org/wiki/Ultimate_Spider-Man_(video_game)",
+        "Year": "2006",
+        "Dev": "Vicarious Visions",
+        "DevLink": null,
+        "Publisher": "Activision, Taito Corporation",
+        "PublisherLink": null,
+        "Platform": "the Nintendo DS",
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS"
+      },
+
+      {
+        "Game": "Ace Attorney Investigations: Miles Edgeworth",
+        "GameLink": "https://en.wikipedia.org/wiki/Ace_Attorney_Investigations:_Miles_Edgeworth",
+        "Year": "2009",
+        "Dev": "Capcom",
+        "DevLink": "https://en.wikipedia.org/wiki/Capcom",
+        "Publisher": "Capcom",
+        "PublisherLink": null,
+        "Platform": "the Nintendo DS",
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS"
+      }
+]
