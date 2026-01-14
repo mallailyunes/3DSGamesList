@@ -16,7 +16,9 @@ xhttp.onreadystatechange = function() {
            let textData =
            "<div class='game-title'>" + game.Game + "</div>" + 
            "<span>" + 
-           "Link: " + game.GameLink + "<br>" + "Release year:  " + game.Year;
+           "Release year:  " + game.Year + "<br>" + 
+           "Developer: " + game.Dev + "<br>" + 
+           "Publisher: " + game.Publisher;
 
            card.innerHTML = textData;
 
@@ -29,5 +31,5 @@ xhttp.onreadystatechange = function() {
     }
 };
 
-xhttp.open("GET", "gamedata.json", true);
+xhttp.open("GET", "3DSGames.json", true);
 xhttp.send();
