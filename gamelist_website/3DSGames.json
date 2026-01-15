@@ -21,7 +21,8 @@
         "Publisher": "Nintendo",
         "PublisherLink": "https://en.wikipedia.org/wiki/Nintendo",
         "Platform": "the 3DS",
-        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/2/2a/Mario_Kart_7_box_art.jpg"
       },
 
       {
@@ -33,11 +34,12 @@
         "Publisher": "Nintendo",
         "PublisherLink": null,
         "Platform": "the Nintendo DS",
-        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS"
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/1/12/Super_Mario_64_DS_Coverart.png"
       },
 
       {
-        "Game": "Pokémon Alpha Sapphire",
+        "Game": "Pokémon Alpha Sapphire/Omega Ruby",
         "GameLink": "https://en.wikipedia.org/wiki/Pokémon_Alpha_Sapphire",
         "Year": 2014,
         "Dev": "Game Freak",
@@ -45,7 +47,8 @@
         "Publisher": "The Pokémon Company",
         "PublisherLink": "https://en.wikipedia.org/wiki/The_Pokémon_Company",
         "Platform": "the 3DS",
-        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS",
+        "imgSrc":"https://upload.wikimedia.org/wikipedia/en/f/f1/AlphaSapphire.jpg"
       },
       
       {

@@ -1,6 +1,7 @@
-body {
+body{
+  color:crimson;
+  background-color:black
 }
-
 
 .grid-container {
     display: grid;
@@ -9,9 +10,8 @@ body {
     padding: 10px;
   }
   .grid-container div {
-    background-color: #f1f1f1;
+    background-color: darkgray;
     border: 3px solid black;
-    border-radius: 5px;
     padding: 10px;
     font-size: 30px;
     text-align: center;

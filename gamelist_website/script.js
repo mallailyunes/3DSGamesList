@@ -27,7 +27,7 @@ xhttp.onreadystatechange = function() {
            }
 
            grid.appendChild(card);
-        });
+        });y6
     }
 };
 
