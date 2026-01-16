@@ -52,7 +52,7 @@
       },
       
       {
-        "Game": "Pokémon X",
+        "Game": "Pokémon X/Y",
         "GameLink": "https://en.wikipedia.org/wiki/Pokémon_X",
         "Year": 2013,
         "Dev": "Game Freak",
@@ -60,7 +60,8 @@
         "Publisher": "The Pokémon Company",
         "PublisherLink": "https://en.wikipedia.org/wiki/The_Pokémon_Company",
         "Platform": "the 3DS",
-        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/d/dc/Pokemon_X_and_Y_box_art.jpg"
       },
 
       {

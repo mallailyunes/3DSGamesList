@@ -1,5 +1,5 @@
 body{
-  color:crimson;
+  color:white;
   background-color:black
 }
 
@@ -15,4 +15,8 @@ body{
     padding: 10px;
     font-size: 30px;
     text-align: center;
+  }
+
+  span{
+    background-color:rgba(0,0,0,0.5)
   }
