@@ -32,5 +32,7 @@ xhttp.onreadystatechange = function() {
     }
 };
 
+const submitButton = document.getElementById("submit");
+
 xhttp.open("GET", "3DSGames.json", true);
 xhttp.send();
