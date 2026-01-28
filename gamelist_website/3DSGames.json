@@ -73,7 +73,8 @@
         "Publisher": "Nintendo",
         "PublisherLink": "https://en.wikipedia.org/wiki/Nintendo",
         "Platform": "the 3DS",
-        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/c/c1/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U.png"
       },
 
       {
@@ -85,7 +86,9 @@
         "Publisher": "Nintendo",
         "PublisherLink": "https://en.wikipedia.org/wiki/Nintendo",
         "Platform": "the 3DS",
-        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/TomodachiLifeBoxartNA.jpg/250px-TomodachiLifeBoxartNA.jpg"
+
       },
 
       {
@@ -97,7 +100,8 @@
         "Publisher": "Nintendo",
         "PublisherLink": null,
         "Platform": "the 3DS",
-        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_3DS",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/0/04/WarioWare_Gold_Cover.jpg"
       },
 
       {
@@ -109,7 +113,8 @@
         "Publisher": "Activision",
         "PublisherLink": null,
         "Platform": "the Nintendo DS",
-        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS"
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS",
+        "imgSrc":"https://upload.wikimedia.org/wikipedia/en/d/df/Spider-Man_Edge_of_Time.jpg"
       },
 
       {
@@ -121,7 +126,8 @@
         "Publisher": "Activision",
         "PublisherLink": null,
         "Platform": "the Nintendo DS",
-        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS"
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Spider-Man_Shattered_Dimensions_cover.jpg/250px-Spider-Man_Shattered_Dimensions_cover.jpg"
       },
 
       {
@@ -133,7 +139,8 @@
         "Publisher": "Activision, Taito Corporation",
         "PublisherLink": null,
         "Platform": "the Nintendo DS",
-        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS"
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Ultimate_Spider-Man_boxart.jpg/250px-Ultimate_Spider-Man_boxart.jpg"
       },
 
       {
@@ -145,6 +152,7 @@
         "Publisher": "Capcom",
         "PublisherLink": null,
         "Platform": "the Nintendo DS",
-        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS"
+        "PlatformLink": "https://en.wikipedia.org/wiki/Nintendo_DS",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/0/0d/Ace_Attorney_Investigations_Miles_Edgeworth_Game_Cover.jpg"
       }
 ]
