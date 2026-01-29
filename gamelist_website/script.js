@@ -2,6 +2,7 @@ console.log("js console");
 
 let data;
 let grid = document.querySelector(".grid-container");
+let form = document.querySelector(".form");
 
 var xhttp = new XMLHttpRequest();
 
