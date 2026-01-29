@@ -32,7 +32,23 @@ xhttp.onreadystatechange = function() {
     }
 };
 
-const submitButton = document.getElementById("submit");
+form.addEventListener("submit",function(e){
+    e.preventDefault();
+    let title = titleInput.value;
+    let developer = developerInput.value;
+    let publisher = devInput.value;
+    let releaseDate = releaseDateInput.value;
+    let imgSrc = imgInput.value;
+    let newObj = {
+        "id":getNextId(),
+        "title": title,
+        "developer":developer,
+        "publisher": publisher,
+        "releaseDate":releaseDate,
+        "imgSrc":imgSrc };
+    submitData(newObj);
+    form.reset();
+});
 
 xhttp.open("GET", "3DSGames.json", true);
 xhttp.send();
