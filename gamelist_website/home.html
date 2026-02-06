@@ -13,7 +13,30 @@
     <div class="grid-container"></div>
     <div class="form"></div>
     
-    
+    <form action="index.php" method="POST" enctype="multipart/form-data">
+      
+        <label for="title">Title:</label>
+          <input type="text" id="title" required><br>
+  
+          <label for="lastname">Release year:</label>
+          <input type="text" id="yearinput" required><br>
+  
+          <label for="developer">Developer:</label>
+          <input type="text" id="devinput"  required><br>
+  
+          <label for="publusher">Publisher:</label>
+          <input type="text" id="pubinput" required><br>
+  
+          <label for="image">Image:</label>
+          <input type="file" id="imgimput" accept="image/png, image/jpeg"><br>
+  
+          <input id="reset" type="reset"><br>
+          <input id="submit" type="submit">
+        <p style="font-size: 18px" class="output"></p>
+      </form>
+
+    <button href="./form.html">Add a game</button>
+
     <script src="./script.js"></script>
 </body>
 </html>

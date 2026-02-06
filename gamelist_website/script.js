@@ -4,10 +4,18 @@ let data;
 let grid = document.querySelector(".grid-container");
 let form = document.querySelector(".form");
 
+let titleInput = document.querySelector(".title");
+let yearInput = document.querySelector(".yearinput");
+let devInput = document.querySelector(".devinput");
+let pubInput = document.querySelector(".pubinput");
+let imgInput = document.querySelector(".imgimput");
+
 var newObj = {
     title: titleInput.value,
-    publisher: pubInput.value,
-    releaseDate: dateInput.value
+    year: yearInput.value,
+    developer: devInput.value,
+    publisher: publisherInput.value,
+    image: imgInput.value
   };
 
 xhttp.onreadystatechange = function() {
@@ -61,8 +69,7 @@ if (localStorage.getItem("datalist")) {
       }
     };
 
-    xhttp.open("GET", "gameData.json", true);
-    xhttp.send();
+    
 }
 
 // RENDER CARDS
@@ -74,9 +81,11 @@ function makeCards() {
       card.classList.add("card");
   
       let textData =
-        "<div class='game-title'>" + game.title + "</div>" +
-        "<div>Publisher: " + game.publisher + "</div>" +
-        "<div>Release Date: " + game.releaseDate + "</div>";
+        "<div class='game-title'>" + game.Game + "</div>" +
+        "<div>Release Date: " + game.Year + "</div>"
+        "<div>Developer: " + game.Dev + "</div>" +
+        "<div>Publisher: " + game.Publisher + "</div>";
+        
 
         card.innerHTML = textData;
         grid.appendChild(card);
@@ -89,14 +98,14 @@ function makeCards() {
 form.addEventListener("submit",function(e){
     e.preventDefault();
     let title = titleInput.value;
-    let releaseDate = releaseDateInput.value;
-    let developer = developerInput.value;
-    let publisher = devInput.value;
+    let releaseDate = yearInput.value;
+    let developer = devInput.value;
+    let publisher = publisherInput.value;
     let imgSrc = imgInput.value;
     let newObj = {
         "id":getNextId(),
-        "title": title,
-        "releaseDate":releaseDate,
+        "title": game,
+        "year":year,
         "developer":developer,
         "publisher": publisher,
         "imgSrc":imgSrc };
@@ -104,5 +113,5 @@ form.addEventListener("submit",function(e){
     form.reset();
 });
 
-xhttp.open("GET", "3DSGames.json", true);
+xhttp.open("GET", "gameData.json", true);
 xhttp.send();
